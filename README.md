@@ -127,7 +127,7 @@ something.
 * Don't get stuck
 * Use your TA
 
-# Standups
+# Daily Standups
 Every morning meet with your group, stand up and have each person tell the group
 what they worked on the previous day, what they had trouble with, and what they
 are going to work on today. Keep it short and focused.
