@@ -156,3 +156,17 @@ Time          | Objective
 1:00  - 5:00  | Working on projects
 5:00  - 5:30  | Prep for Retro
 5:30  - 6:00  | Retro ( 4 groups, 5 minutes each)
+
+# Don't know where to start?
+### Here are some project ideas to get you started
+* Feedback -> Github Issues
+  * Do something with GitHub issues
+* 2nd Version of Magazine (Blog Network)
+  * Create an improved version of the [Flatiron Magazine](http://magazine.flatironschool.com/)
+  * Flatiron Magazine is made up of all student, staff, and alumni blog posts
+* Real Time Commit Dashboards for Github Org / Team
+* Teamline
+* CMS for Projects (Built)
+* Video Player
+* "With" (Group Event Planning)
+* PhotoAggregator on Hashtag
