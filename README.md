@@ -99,6 +99,14 @@ shouldn't find yourself mocking up all the pages of the app before you've writte
 a line of code.
 4. Deploy! You should deploy something on the first day, and every day after that.
 
+#####Frameworks and Huge gems
+Don't JS frameworks or big gems like:
+* ActiveAdmin
+* RefineryCMS
+* Backbone
+* Angular
+* Ember
+
 **TL;DR**
 * Iterate!
 * Launch a new feature every day
