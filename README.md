@@ -175,3 +175,11 @@ Time          | Objective
 * Video Player
 * "With" (Group Event Planning)
 * PhotoAggregator on Hashtag
+
+# Resources
+
+Here's some reading on how to build:
+
+- [Thoughtbot Playbook](http://playbook.thoughtbot.com/)
+- [Twelve Factor App](http://12factor.net/)
+
