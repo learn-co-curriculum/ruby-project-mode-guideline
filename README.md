@@ -142,6 +142,8 @@ important for everyone to attend. They will cover interesting gems, Image
 manipulation, writing responsive html/css, Mulit Step AJAX, and other topics that
 are interesting to a subset of the class.
 
+[Ruby004 Edge Lecture Schedule](https://docs.google.com/a/flatironschool.com/spreadsheet/ccc?key=0AutirJPDhz8BdEJ6a2N2OTg4NUdkdUc0MGNyOFZ4NVE#gid=0)
+
 **TL;DR**
 * Daily lectures on interesting topics
 
@@ -157,6 +159,8 @@ Time          | Objective
 1:00  - 5:00  | Working on projects
 5:00  - 5:30  | Prep for Retro
 5:30  - 6:00  | Retro ( 4 groups, 5 minutes each)
+
+[Check Out the TA Schedule](https://docs.google.com/a/flatironschool.com/spreadsheet/ccc?key=0AutirJPDhz8BdE1oTmMzdTFKSnkwVzZsdk1wTnJwcFE#gid=0) _we will fill in the actual group names_
 
 # Don't know where to start?
 ### Here are some project ideas to get you started
