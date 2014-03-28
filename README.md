@@ -9,8 +9,9 @@ language: ruby
 
 The last few weeks of the Flatiron Ruby semester include a project mode where students get to work on building real applications. The goal of this period is to expose students to actual problems that arise when building and teach them how to manage a project. The goal of the projects is not to launch a massively popular social network or startup, but rather, just to learn.
 
-    Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.
-    - Oscar Wilde
+>Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.
+>
+> — Oscar Wilde
 
 While we love teaching you all the things about programming, in the end, we're trying to build things, and that isn't something we believe can be taught, but rather, must be learned by trying and failing and exploring.
 
