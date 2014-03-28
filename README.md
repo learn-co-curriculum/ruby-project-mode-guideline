@@ -64,7 +64,18 @@ In terms of what projects are cool, we tend to think the nature of value in soft
 
 You can find more ideas here: https://gist.github.com/aviflombaum/616c9841a9af68cf0eb0
 
-And see past projects here: TODO
+And see past projects here:
+
+[Wishgram](http://162.243.119.229/)
+[Kickammender](http://162.243.246.245/)
+[NBAStalk](http://162.243.240.32/)
+[GameTable](http://gametable.co/)
+[WhoWhatWhen](http://192.241.176.112/)
+[Flatiron Magazine](http://192.241.184.6/)
+[Hypochondriapp](http://162.243.73.173)
+[LocalList](http://localist.herokuapp.com/)
+[HappyFuntimeTrails](http://geotreasure.herokuapp.com/)
+[OctoMaps](http://octomaps.com)
 
 Once you have a team and a project, sign up here: https://docs.google.com/forms/d/1ctwqhTTMm3EUYsBE8QwtOmpEyXdc1CbpcdapdiXpM0g/edit?usp=sharing
 
