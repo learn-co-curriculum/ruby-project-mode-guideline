@@ -77,8 +77,9 @@ Once you have a team and a project, sign up here: https://docs.google.com/forms/
 
 # Starting Your Project
 
-* Clone from the Flatiron [Template]()
-  * The template is just an empty rails project with basics like Bootstrap and
+* Install the Flatiron Rails Gem `gem install flatiron-rails`
+  * Then Run `flatiron-rails new AppName`
+* The template is just an empty rails project with basics like Bootstrap and
   Google Analytics installed already.
 * Setup external services (API's, etc.)
 * Get a base layout done
