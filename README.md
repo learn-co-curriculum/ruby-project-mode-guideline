@@ -1,6 +1,7 @@
 ---
 tags: project, meta
 language: ruby
+  resources: 2
 ---
 
 # So you're starting a Ruby on Rails project at Flatiron School
@@ -203,3 +204,7 @@ Here's some reading on how to build:
 - [Thoughtbot Playbook](http://playbook.thoughtbot.com/)
 - [Twelve Factor App](http://12factor.net/)
 
+
+## Resources
+* [ThoughtBot Playbook](http://thoughtbot.com/) - [](http://playbook.thoughtbot.com/)
+* [The Twelve Factor App](http://12factor.net/) - [](http://12factor.net/)
