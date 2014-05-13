@@ -1,6 +1,6 @@
 ---
-tags: project, meta
-language: ruby
+  tags: project, meta
+  language: ruby
   resources: 2
 ---
 
@@ -197,13 +197,8 @@ Time          | Objective
 * PhotoAggregator on Hashtag
 * Digital Library Manager
 
-# Resources
 
 Here's some reading on how to build:
-
-- [Thoughtbot Playbook](http://playbook.thoughtbot.com/)
-- [Twelve Factor App](http://12factor.net/)
-
 
 ## Resources
 * [ThoughtBot Playbook](http://thoughtbot.com/) - [](http://playbook.thoughtbot.com/)
