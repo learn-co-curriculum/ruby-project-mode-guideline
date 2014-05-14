@@ -201,5 +201,5 @@ Time          | Objective
 Here's some reading on how to build:
 
 ## Resources
-* [ThoughtBot Playbook](http://thoughtbot.com/) - [](http://playbook.thoughtbot.com/)
-* [The Twelve Factor App](http://12factor.net/) - [](http://12factor.net/)
+* [ThoughtBot Playbook](http://thoughtbot.com/) - [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
+* [The Twelve Factor App](http://12factor.net/) - [The Twelve Factor App](http://12factor.net/)
