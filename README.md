@@ -1,14 +1,14 @@
 ---
   tags: project, meta
-  language: ruby
+  language: english, ruby
   resources: 2
 ---
 
-# So you're starting a Ruby on Rails project at Flatiron School
+# Web Development Project Mode Guideline
 
 ## Introduction and Objectives
 
-The last few weeks of the Flatiron Ruby semester include a project mode where students get to work on building real applications. The goal of this period is to expose students to actual problems that arise when building and teach them how to manage a project. The goal of the projects is not to launch a massively popular social network or startup, but rather, just to learn.
+The last few weeks of the Flatiron semester are called 'project mode.' You'll be building real applications. The goal of this period is to expose you to actual problems that arise when building and teach you how to manage a big project. The goal of the projects is not to launch a massively popular social network or startup, but rather, just to learn.
 
 >Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.
 >
@@ -21,8 +21,8 @@ So make sure you are keeping your eye on learning, a constant balance between bu
 During project mode, our expectation of you is that you ship at least 2 small projects.
 
 **TL;DR**
-* Expose students to actual problems
-* Learn to manage projects
+* Expose you to actual problems
+* Learn to manage software projects
 * Goal is to learn, not build a company
 * Learn though building things
 * Ship at least two small projects
