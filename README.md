@@ -62,7 +62,6 @@ And see past projects here:
 - [NBAStalk](http://162.243.240.32/)
 - [GameTable](http://gametable.co/)
 - [WhoWhatWhen](http://192.241.176.112/)
-- [Hypochondriapp](http://162.243.73.173)
 - [LocalList](http://localist.herokuapp.com/)
 - [HappyFuntimeTrails](http://geotreasure.herokuapp.com/)
 - [OctoMaps](http://octomaps.com)
