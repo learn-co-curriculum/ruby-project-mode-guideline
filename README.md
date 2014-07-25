@@ -62,11 +62,16 @@ And see past projects here:
 - [NBAStalk](http://162.243.240.32/)
 - [GameTable](http://gametable.co/)
 - [WhoWhatWhen](http://192.241.176.112/)
-- [Flatiron Magazine](http://192.241.184.6/)
 - [Hypochondriapp](http://162.243.73.173)
 - [LocalList](http://localist.herokuapp.com/)
 - [HappyFuntimeTrails](http://geotreasure.herokuapp.com/)
 - [OctoMaps](http://octomaps.com)
+- [Gitshoes](http://www.gitshoes.com/)
+- [MilkTrackr](http://www.milktrackr.com/)
+- [Missql Command](http://missqlcommand.com/)
+- [Looseleaf](http://looseleaf.me/)
+- [Pale Blue Dot](http://palebluedot.herokuapp.com/)
+- [Crowd Tangle](http://www.crowdtangle.com/map)
 
 **TL;DR**
 * Be humble about your estimates
