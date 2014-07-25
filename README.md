@@ -53,18 +53,7 @@ Building something usable is tremendously hard. There are a few things we've lea
 
 Beginners have a tendency to choose very hard projects. Pick a project that you can imagine having a somewhat working version of after a day. Keep it simple and small.
 
-We love projects that utilize external APIs and Data Sources. They make everything more interesting.
-
-- [Github](http://developer.github.com/v3/)
-- [Twilio](http://twilio.com)
-- [Wit.AI](http://wit.ai)
-- [Facebook](https://developers.facebook.com/)
-- [Twitter](https://developer.twitter.com)
-- [NYC Open Data](https://nycopendata.socrata.com/)
-
-In terms of what projects are cool, we tend to think the nature of value in software lies in being able to answer or automate a question that was previously difficult. For example, Airbnb answers the questions "Who's couch can I crash on tonight?", Kickstarter "Where can I get money for an art project?" (or conversely, "Which independent projects can I support?"). Your application—every feature—should answer a person's question. For instance, an application you could build might answer, "Who is committing code at Flatiron School right now?", "Who wants to meet for tutoring this weekend?". Focus on questions, on problems, then solve them with code. Your application should answer at most 2-3 fundemental questions.
-
-You can find more ideas here: https://gist.github.com/aviflombaum/616c9841a9af68cf0eb0
+Check out this list of [project ideas](https://github.com/flatiron-school-curriculum/project-mode-ideas)
 
 And see past projects here:
 
@@ -78,8 +67,6 @@ And see past projects here:
 - [LocalList](http://localist.herokuapp.com/)
 - [HappyFuntimeTrails](http://geotreasure.herokuapp.com/)
 - [OctoMaps](http://octomaps.com)
-
-Once you have a team and a project, sign up here: https://docs.google.com/forms/d/1ctwqhTTMm3EUYsBE8QwtOmpEyXdc1CbpcdapdiXpM0g/edit?usp=sharing
 
 **TL;DR**
 * Be humble about your estimates
@@ -156,17 +143,6 @@ Every day between 5:30 and 6:00pm, four groups will give five minute recaps abou
 **TL;DR**
 * Retros at the end of every day
 
-# Edge Lectures
-Every other day at lunch there will be Edge Lectures on topics that aren't necessarily
-important for everyone to attend. They will cover interesting gems, Image
-manipulation, writing responsive html/css, AJAX Breadcrumbs, and other topics that
-are interesting to a subset of the class.
-
-[Ruby004 Edge Lecture Schedule](https://docs.google.com/a/flatironschool.com/spreadsheet/ccc?key=0AutirJPDhz8BdEJ6a2N2OTg4NUdkdUc0MGNyOFZ4NVE#gid=0)
-
-**TL;DR**
-* Daily lectures on interesting topics
-
 # Schedule During Project Mode
 You'll have a lot of free time during project mode to work on your projects. Most
 days, the schedule will look like this:
@@ -175,30 +151,10 @@ Time          | Objective
 --------------|-----------------------------------
 9:00  - 10:00 | Standups
 10:00 - 12:00 | Working on projects
-12:00 - 1:00  | Lunch and Edge lectures
+12:00 - 1:00  | Lunch
 1:00  - 5:00  | Working on projects
 5:00  - 5:30  | Prep for Retro
 5:30  - 6:00  | Retro (4 groups, 5 minutes each)
-
-[Check Out the TA Schedule](https://docs.google.com/a/flatironschool.com/spreadsheet/ccc?key=0AutirJPDhz8BdE1oTmMzdTFKSnkwVzZsdk1wTnJwcFE#gid=0) _we will fill in the actual group names_
-
-# Don't know where to start?
-### Here are some project ideas to get you started
-* Feedback -> Github Issues
-  * Do something with GitHub issues
-* 2nd Version of Magazine (Blog Network)
-  * Create an improved version of the [Flatiron Magazine](http://magazine.flatironschool.com/)
-  * Flatiron Magazine is made up of all student, staff, and alumni blog posts
-* Real Time Commit Dashboards for Github Org / Team
-* Teamline
-* CMS for Projects (Built)
-* Video Player
-* "With" (Group Event Planning)
-* PhotoAggregator on Hashtag
-* Digital Library Manager
-
-
-Here's some reading on how to build:
 
 ## Resources
 * [ThoughtBot Playbook](http://thoughtbot.com/) - [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
