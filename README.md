@@ -53,7 +53,7 @@ Building something usable is tremendously hard. There are a few things we've lea
 
 Beginners have a tendency to choose very hard projects. Pick a project that you can imagine having a somewhat working version of after a day. Keep it simple and small.
 
-Check out this list of [project ideas](https://github.com/flatiron-school-curriculum/project-mode-ideas)
+**Check out this list of [project ideas](https://github.com/flatiron-school-curriculum/project-mode-ideas)**
 
 And see past projects here:
 
