@@ -24,7 +24,7 @@ During project mode, our expectation of you is that you ship at least 2 small pr
 * Expose you to actual problems
 * Learn to manage software projects
 * Goal is to learn, not build a company
-* Learn though building things
+* Learn through building things
 * Ship at least two small projects
 
 ## Working in Teams
