@@ -47,7 +47,7 @@ We believe that as professionals, you should be able to, in fact take pride in y
 
 Project mode is a perfect time to get comfy with concepts you feel iffy about. If you're not a strong JavaScripter but your partners are, your first instinct might be for them to go ahead and write JavaScript while you watch passively. Resist this instinct! Instead, take on that JavaScript and let them take on other areas that they might feel less confident with.
 
-Finally, while project mode may be less structured feeling than earlier in the semester, it is nevertheless a time to learn. Have a sense of humor when a bug ghost comes back to haunt you, rejoice when you conquer it, and encourage not just your teammates, but also other teams. Remember to have fun.
+Finally, while project mode may be less structured than earlier in the semester, it is nevertheless a time to learn. Have a sense of humor when a bug ghost comes back to haunt you, rejoice when you conquer it, and encourage not just your teammates, but also other teams. Remember to have fun.
 
 **TL;DR**
 * Should be able to work with anyone
