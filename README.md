@@ -80,7 +80,7 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
   * Then Run `flatiron-rails new AppName`
   * Type `n` or `no` to every prompt. You can add Devise and all the other add-ons later.
   * Add `ruby '2.1.2'` or whatever Ruby version you'd like to use to the top of your Gemfile
-  * To deploy, you'll run `bin/setup [<app_name>]`, where `app_name` is optional, followed by `bin/deploy`
+  * To deploy to Heroku, you'll run `bin/setup [<app_name>]`, where `app_name` is optional, followed by `bin/deploy`
   * For more information on the gem, cd in to a Rails app that it created and look at the file `STACK.md`
 * The template is just an empty rails project with basics like RSpec, Bootstrap and
   Google Analytics installed already.
