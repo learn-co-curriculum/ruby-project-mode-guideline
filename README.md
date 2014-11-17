@@ -14,7 +14,6 @@
 |[Picking a Project](#picking-a-project)|
 |[Starting Your Project](#starting-your-project)
 |[Planning and Working on Your Project](#planning-and-working-on-your-project)
-|[Daily Standups](#daily-standups)|
 |[Working with Your TAs](#working-with-your-tas)|
 |[Schedule During Project Mode](#schedule-during-project-mode)|
 |[Resources](#resources)
