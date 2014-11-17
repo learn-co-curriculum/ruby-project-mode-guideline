@@ -67,22 +67,6 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
 
 **Take a look at the next lesson for project ideas**
 
-And see past projects here:
-
-- [Crowd Tangle](http://www.crowdtangle.com/map)
-- [GameTable](http://gametable.co/)
-- [Gitshoes](http://www.gitshoes.com/)
-- [Kickammender](http://162.243.246.245/)
-- [LocalList](http://localist.herokuapp.com/)
-- [Looseleaf](http://looseleaf.me/)
-- [MilkTrackr](http://www.milktrackr.com/)
-- [Missql Command](http://missqlcommand.com/)
-- [NBAStalk](http://162.243.240.32/)
-- [OctoMaps](http://octomaps.com)
-- [Pale Blue Dot](http://palebluedot.herokuapp.com/)
-- [WhoWhatWhen](http://192.241.176.112/)
-- [Wishgram](http://162.243.119.229/)
-
 **TL;DR**
 * Be humble about your estimates
 * Keep it simple (Minimum Lovable Product)
