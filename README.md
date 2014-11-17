@@ -73,6 +73,7 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
 * Should have a working version after a day
 * External APIs make projects more interesting
 * Think about answering or automating a question
+* Keep in mind that Heroku allows for one free rake task through [their scheduler](https://devcenter.heroku.com/articles/scheduler). Make sure your project idea will not require multiple rake tasks or require a rake task that runs at an interval other than hourly, weekly, or monthly.
 
 ## Starting Your Project
 
