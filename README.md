@@ -168,5 +168,5 @@ Every day between 5:30 and 6:00pm, four groups will give five minute recaps abou
 * Retros at the end of every day
 
 ## Resources
-* [ThoughtBot Playbook](http://thoughtbot.com/) - [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
+* [ThoughtBot](http://thoughtbot.com/) - [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
 * [The Twelve Factor App](http://12factor.net/) - [The Twelve Factor App](http://12factor.net/)
