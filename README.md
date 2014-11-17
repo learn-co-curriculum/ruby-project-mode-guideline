@@ -79,6 +79,7 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
 
 * Install the Flatiron Rails Gem `gem install flatiron-rails`
   * Then Run `flatiron-rails new AppName`
+  * If you'd like to enable Google Analytics, get a Google Analytics code and add it to `config/secrets.yml`.
   * Type `n` or `no` to every prompt. You can add Devise and all the other add-ons later.
   * Add `ruby '2.1.2'` or whatever Ruby version you'd like to use to the top of your Gemfile
   * To deploy to Heroku, you'll run `bin/setup [<app_name>]`, where `app_name` is optional, followed by `bin/deploy`
