@@ -41,19 +41,13 @@ During project mode, our expectation of you is that you ship at least 2 small pr
 
 ## Working in Teams
 
-During project mode we want you working in teams of 2 to 3 people. Do not work alone, that is absolutely not allowed. And do not work in teams bigger than 3, they are hard to manage and add a people layer of complexity to the project.
+During project mode you will be working in teams of 2 to 3 people. Do not work alone, that is absolutely not allowed.
 
-We believe that as professionals, you should be able to, in fact take pride in your ability to, work with anyone. Work with people more advanced and less advanced and figure out how to be productive in both situations. Work with people that share your interests and people with wildly diverse backgrounds and figure out how to leverage all perspectives.
-
-So who you work with shouldn't matter, but it does. Try to pick people that share your goals of learning and your values as a developer, the pace and hours you want to keep and the technologies you want to learn, and the problem you are looking to solve. It should be fun.
+We believe that as professionals, you should be able to, in fact take pride in your ability to, work with anyone. Work with people more advanced and less advanced and figure out how to be productive in both situations. Project mode is a perfect time to get comfy with concepts you feel iffy about. If you're not a strong JavaScripter but your partners are, your first instinct might be for them to go ahead and write JavaScript while you watch passively. Resist this instinct! Instead, take on that JavaScript and let them take on other areas that they might feel less confident with.
 
 **TL;DR**
-* Teams of 2 - 3 only
-* **Do not work alone!**
 * Should be able to work with anyone
-* Pick partners with varying backgrounds
 * Work on your weaknesses
-* Work with people interested in working on the same project
 * Have fun
 
 ## Picking a Project
