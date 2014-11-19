@@ -102,6 +102,7 @@ You shouldn't find yourself designing a schema with a dozen tables. You also
 shouldn't find yourself mocking up all the pages of the app before you've written
 a line of code.
 4. Deploy! You should deploy something on the first day, and every day after that.
+5. Do not design, only use features that [Bootstrap](http://getbootstrap.com/) provides. Do not do custom styling, Flatiron will buy you a [Wrap Bootstrap Theme](https://wrapbootstrap.com/).
 
 ##### Frameworks and Huge gems
 
