@@ -82,8 +82,7 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
   * Add `ruby '2.1.2'` or whatever Ruby version you'd like to use to the top of your Gemfile
   * To deploy to Heroku, you'll run `bin/setup [<app_name>]`, where `app_name` is optional. Then run `bin/deploy`.
   * For more information on the gem, cd in to a Rails app that it created and look at the file `STACK.md`
-* The template is just an empty rails project with basics like RSpec, Bootstrap and
-  Google Analytics installed already.
+* The template is just an empty rails project with basics like RSpec, Bootstrap and Google Analytics installed already.
 * Setup external services (API's, etc.)
 * Get a base layout done
 * Deploy a homepage
@@ -95,7 +94,7 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
 demonstrates a feature you built today. The point of making the videos is to
 keep you focused on delivering features, and prevent you from wasting time in the
 wrong areas.
-3. Dont' get bogged down by complexity. Focus on the the smallest unit of work,
+3. Don't get bogged down by complexity. Focus on the the smallest unit of work,
 and build up from there. Don't spend time planning
 every detail of your project. Get an idea of what you want to build and start.
 You shouldn't find yourself designing a schema with a dozen tables. You also
