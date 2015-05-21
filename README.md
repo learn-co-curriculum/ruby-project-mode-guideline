@@ -90,7 +90,7 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
 ## Planning and Working on Your Project
 
 1. Iterate! Stay fast and small. Build things in small parts. You should be able to launch a new feature every day because you build in the smallest possible unit and are constantly driving toward deploying a new piece of code. Don't pile up requirements, look for shortcuts, look for ways of having a 'good enough' version of the feature and not all the bells and whistles.
-2. Make videos. Every day you should make a short, less than 5 minute video that
+2. Make videos. Every day you should make a 1 minute video that
 demonstrates a feature you built today. The point of making the videos is to
 keep you focused on delivering features, and prevent you from wasting time in the
 wrong areas.
