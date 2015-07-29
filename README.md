@@ -139,7 +139,7 @@ You'll have a lot of free time during project mode to work on your projects. Mos
 days, the schedule will look like this:
 
 Time          | Objective
---------|-----------------------------------
+--|-----------------------------------
 9:00  - 10:00 | Standups
 10:00 - 12:00 | Working on projects
 12:00 - 1:00  | Lunch
