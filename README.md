@@ -1,5 +1,3 @@
-
-
 # Web Development Project Mode Guideline
 
 ## Contents
@@ -29,6 +27,7 @@ So make sure you are keeping your eye on learning, a constant balance between bu
 During project mode, our expectation of you is that you ship at least 2 small projects.
 
 **TL;DR**
+
 * Expose you to actual problems
 * Learn to manage software projects
 * Goal is to learn, not build a company
@@ -46,6 +45,7 @@ Project mode is a perfect time to get comfy with concepts you feel iffy about. I
 Finally, while project mode may be less structured than earlier in the semester, it is nevertheless a time to learn. Have a sense of humor when a bug ghost comes back to haunt you, rejoice when you conquer it, and encourage not just your teammates, but also other teams. Remember to have fun.
 
 **TL;DR**
+
 * Should be able to work with anyone
 * Work on your weaknesses
 * Have fun
@@ -62,6 +62,7 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
 **Take a look at the next lesson for project ideas**
 
 **TL;DR**
+
 * Be humble about your estimates
 * Keep it simple (Minimum Lovable Product)
 * Should have a working version after a day
@@ -87,30 +88,26 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
 
 1. Iterate! Stay fast and small. Build things in small parts. You should be able to launch a new feature every day because you build in the smallest possible unit and are constantly driving toward deploying a new piece of code. Don't pile up requirements, look for shortcuts, look for ways of having a 'good enough' version of the feature and not all the bells and whistles.
 2. Make videos. Every day you should make a 1 minute video that
-demonstrates a feature you built today. The point of making the videos is to
-keep you focused on delivering features, and prevent you from wasting time in the
-wrong areas.
-3. Don't get bogged down by complexity. Focus on the the smallest unit of work,
-and build up from there. Don't spend time planning
-every detail of your project. Get an idea of what you want to build and start.
-You shouldn't find yourself designing a schema with a dozen tables. You also
-shouldn't find yourself mocking up all the pages of the app before you've written
-a line of code.
+demonstrates a feature you built today. The point of making the videos is to keep you focused on delivering features, and prevent you from wasting time in thewrong areas.
+3. Don't get bogged down by complexity. Focus on the the smallest unit of work, and build up from there. Don't spend time planning every detail of your project. Get an idea of what you want to build and start. You shouldn't find yourself designing a schema with a dozen tables. You also shouldn't find yourself mocking up all the pages of the app before you've written a line of code.
 4. Deploy! You should deploy something on the first day, and every day after that.
 5. Do not design, only use features that [Bootstrap](http://getbootstrap.com/) provides. Do not do custom styling, Flatiron will buy you a [Wrap Bootstrap Theme](https://wrapbootstrap.com/).
 
 ##### Frameworks and Huge gems
 
 Don't use JS frameworks like:
+
 * Backbone
 * Angular
 * Ember
 
 Or big gems like:
+
 * ActiveAdmin
 * RefineryCMS
 
 **TL;DR**
+
 * Iterate!
 * Launch a new feature every day
 * Make it good enough, not perfect
@@ -120,15 +117,12 @@ Or big gems like:
 
 ## Working with Your TAs
 
-1. Work with one TA. Your project will get complex, so you'll be working
-with the same TA until you're finished. This will make the TAs more familiar with
-your project, and a lot more helpful.
-2. Don't let yourself get stuck. Your TAs are here to help you. Use them when you
-get stuck. You want to make consistent progress. Don't spend the day stuck on
-something.
-3. There will be a consistent, daily schedule of times when you and your TA will be able to work with one another for uninterrupted blocks of time.
+1. Work with one TA. Your project will get complex, so you'll be working with the same TA until you're finished. This will make the TAs more familiar with your project, and a lot more helpful.
+2. Don't let yourself get stuck. Your TAs are here to help you. Use them when you get stuck. You want to make consistent progress. Don't spend the day stuck on something.
+
 
 **TL;DR**
+
 * Work with one TA
 * Don't get stuck
 * Use your TA
@@ -138,30 +132,24 @@ something.
 You'll have a lot of free time during project mode to work on your projects. Most
 days, the schedule will look like this:
 
+
 Time          | Objective
---|-----------------------------------
+--------------|-----------------------------------
 9:00  - 10:00 | Standups
 10:00 - 12:00 | Working on projects
 12:00 - 1:00  | Lunch
-1:00  - 5:00  | Working on projects
-5:00  - 5:30  | Prep for Retro
-5:30  - 6:00  | Retro (4 groups, 5 minutes each)
+1:00  - 5:30  | Working on projects
+5:30  - 6:00  | Record a video of your app
 
 ### Daily Standups
 
-Every morning meet with your group, stand up and have each person tell the group
-what they worked on the previous day, what they had trouble with, and what they
-are going to work on today. Keep it short and focused.
+Every morning meet with your group, stand up and have each person tell the group what they worked on the previous day, what they had trouble with, and what they are going to work on today. Keep it short and focused.
 
 **TL;DR**
+
 * Have a daily standup
 
-### Retro
 
-Every day between 5:30 and 6:00pm, four groups will give five minute recaps about their progress on their projects. These will be short and sweet, and keep us all on our toes.
-
-**TL;DR**
-* Retros at the end of every day
 
 ## Resources
 * [ThoughtBot](http://thoughtbot.com/) - [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
