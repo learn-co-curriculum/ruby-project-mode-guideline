@@ -154,3 +154,5 @@ Every morning meet with your group, stand up and have each person tell the group
 ## Resources
 * [ThoughtBot](http://thoughtbot.com/) - [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
 * [The Twelve Factor App](http://12factor.net/) - [The Twelve Factor App](http://12factor.net/)
+
+<a href='https://learn.co/lessons/ruby-project-mode-guideline' data-visibility='hidden'>View this lesson on Learn.co</a>
