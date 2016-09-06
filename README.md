@@ -70,20 +70,6 @@ Beginners have a tendency to choose very hard projects. Pick a project that you 
 * Think about answering or automating a question
 * Keep in mind that Heroku allows for one free rake task through [their scheduler](https://devcenter.heroku.com/articles/scheduler). Make sure your project idea will not require multiple rake tasks or require a rake task that runs at an interval other than hourly, weekly, or monthly.
 
-## Starting Your Project
-
-* Install the Flatiron Rails Gem `gem install flatiron-rails`
-  * Then Run `flatiron-rails new AppName`
-  * If you'd like to enable Google Analytics, get a Google Analytics code and add it to `config/secrets.yml`.
-  * Type `n` or `no` to every prompt. You can add Devise and all the other add-ons later.
-  * Add `ruby '2.1.2'` or whatever Ruby version you'd like to use to the top of your Gemfile
-  * To deploy to Heroku, you'll run `bin/setup [<app_name>]`, where `app_name` is optional. Then run `bin/deploy`.
-  * For more information on the gem, cd in to a Rails app that it created and look at the file `STACK.md`
-* The template is just an empty rails project with basics like RSpec, Bootstrap and Google Analytics installed already.
-* Setup external services (API's, etc.)
-* Get a base layout done
-* Deploy a homepage
-
 ## Planning and Working on Your Project
 
 1. Iterate! Stay fast and small. Build things in small parts. You should be able to launch a new feature every day because you build in the smallest possible unit and are constantly driving toward deploying a new piece of code. Don't pile up requirements, look for shortcuts, look for ways of having a 'good enough' version of the feature and not all the bells and whistles.
